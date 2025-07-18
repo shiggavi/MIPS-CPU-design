@@ -1,4 +1,4 @@
-// Gokul's D-flipflop
+// D-flipflop
 
 module dff (q, d, wen, clk, rst);
 
