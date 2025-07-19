@@ -2,12 +2,6 @@
 //
 // Memory -- single cycle version
 //
-// written for CS/ECE 552, Spring '07
-// Pratap Ramamurthy, 19 Mar 2006
-//
-// Modified for CS/ECE 552, Spring '18
-// Gokul Ravi, 08 Mar 2018
-//
 // This is a byte-addressable,
 // 16-bit wide memory
 // Note: The last bit of the address has to be 0.
